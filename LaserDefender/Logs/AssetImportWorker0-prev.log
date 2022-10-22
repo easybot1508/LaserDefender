@@ -1,0 +1,275 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19044.2130; Version 2009; 64bit' Language: 'en' Physical Memory: 16221 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/game/LaserDefender
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57704
+Successfully changed project path to: D:/Unity/game/LaserDefender
+D:/Unity/game/LaserDefender
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 123.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/game/LaserDefender/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004695 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 131.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.773 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003223 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 137.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.539 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3694 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.4 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4152.
+Total: 3.303200 ms (FindLiveObjects: 0.326900 ms CreateObjectMapping: 0.173700 ms MarkObjects: 2.657700 ms  DeleteObjects: 0.143300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Waves and Paths/Path 3.prefab
+  artifactKey: Guid(8edcf86d9f3a99a409f511933e764173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Path 3.prefab using Guid(8edcf86d9f3a99a409f511933e764173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ff3e4c4ad149c83483b1f6dbf66a6b') in 0.091163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.681141 seconds.
+  path: Assets/Waves and Paths/Wave 3.asset
+  artifactKey: Guid(1680bf26f1468654a82ef1f849852842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Wave 3.asset using Guid(1680bf26f1468654a82ef1f849852842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfdc72b5db4623d5a6847fde2a21f02') in 0.010997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1474.236680 seconds.
+  path: Assets/Waves and Paths/Path 4.prefab
+  artifactKey: Guid(9db7d9e8e5c22ea4dbf133274458b83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Path 4.prefab using Guid(9db7d9e8e5c22ea4dbf133274458b83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c746ab4cf7193789944b8ef8eaf2e6') in 0.011660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.648673 seconds.
+  path: Assets/Waves and Paths/Wave 4.asset
+  artifactKey: Guid(c7e858211c3bc9949aa121c36d5ba039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Wave 4.asset using Guid(c7e858211c3bc9949aa121c36d5ba039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5abd79b61898d2c3796c50b14cdd82') in 0.007445 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010519 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.331 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.2 MB.
+System memory in use after: 140.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4156.
+Total: 3.576700 ms (FindLiveObjects: 0.386700 ms CreateObjectMapping: 0.249100 ms MarkObjects: 2.803900 ms  DeleteObjects: 0.131100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003397 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.515 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4160.
+Total: 5.176300 ms (FindLiveObjects: 0.323100 ms CreateObjectMapping: 0.262700 ms MarkObjects: 4.418200 ms  DeleteObjects: 0.170300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002081 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.099 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4164.
+Total: 3.017200 ms (FindLiveObjects: 0.292700 ms CreateObjectMapping: 0.150700 ms MarkObjects: 2.458700 ms  DeleteObjects: 0.114300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002136 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.990 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4168.
+Total: 3.803700 ms (FindLiveObjects: 0.270400 ms CreateObjectMapping: 0.154400 ms MarkObjects: 3.249000 ms  DeleteObjects: 0.128500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1192.800522 seconds.
+  path: Assets/Waves and Paths/Path 3.prefab
+  artifactKey: Guid(8edcf86d9f3a99a409f511933e764173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Path 3.prefab using Guid(8edcf86d9f3a99a409f511933e764173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c58f5a6699e0bcc638cbbdf4ea25073') in 0.030639 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002487 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.210 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4172.
+Total: 2.908000 ms (FindLiveObjects: 0.270200 ms CreateObjectMapping: 0.152800 ms MarkObjects: 2.397400 ms  DeleteObjects: 0.086800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.015181 seconds.
+  path: Assets/Waves and Paths/Path 3.prefab
+  artifactKey: Guid(8edcf86d9f3a99a409f511933e764173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Path 3.prefab using Guid(8edcf86d9f3a99a409f511933e764173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd56c72cbded959b5dd4f629700e49b1') in 0.027784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.428990 seconds.
+  path: Assets/Prefabs/Enemies 2.prefab
+  artifactKey: Guid(9b01abe18948f794ea22f9a642862376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies 2.prefab using Guid(9b01abe18948f794ea22f9a642862376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a075cfcd42e4b556be1e728d8ab044c2') in 0.072715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.488464 seconds.
+  path: Assets/Waves and Paths/Wave 3.asset
+  artifactKey: Guid(1680bf26f1468654a82ef1f849852842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Wave 3.asset using Guid(1680bf26f1468654a82ef1f849852842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbddc0bbf3b1f42f9839db039d7d93e6') in 0.004035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.411985 seconds.
+  path: Assets/Prefabs/Enemies 2.prefab
+  artifactKey: Guid(9b01abe18948f794ea22f9a642862376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies 2.prefab using Guid(9b01abe18948f794ea22f9a642862376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a64c807389fe088411f64945844182') in 0.016335 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002159 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\game\LaserDefender\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 144.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4183.
+Total: 2.979000 ms (FindLiveObjects: 0.264900 ms CreateObjectMapping: 0.163800 ms MarkObjects: 2.464200 ms  DeleteObjects: 0.085200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.476100 seconds.
+  path: Assets/Waves and Paths/Path 4.prefab
+  artifactKey: Guid(9db7d9e8e5c22ea4dbf133274458b83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Path 4.prefab using Guid(9db7d9e8e5c22ea4dbf133274458b83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bb2a928b6e3e2ba919069338482a90') in 0.028372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.217523 seconds.
+  path: Assets/Waves and Paths/Path 5.prefab
+  artifactKey: Guid(498a09657775f3546afc4e0db9aeb0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Path 5.prefab using Guid(498a09657775f3546afc4e0db9aeb0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb201c6eec6c27289d6bba24cd081bf') in 0.006193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.743563 seconds.
+  path: Assets/Waves and Paths/Wave 5.asset
+  artifactKey: Guid(12a3c1b8ad462cb4cae333f86a038914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Waves and Paths/Wave 5.asset using Guid(12a3c1b8ad462cb4cae333f86a038914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86c35d6ae1dfe9329f2cf44c8c038441') in 0.006034 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
